@@ -1,0 +1,9 @@
+Thu Jan 11 16:54:52 PST 2024
+Darwin Varshas-MacBook-Pro.local 20.6.0 Darwin Kernel Version 20.6.0: Thu Jul  6 22:12:47 PDT 2023; root:xnu-7195.141.49.702.12~1/RELEASE_X86_64 x86_64
+Python 3.10.7
+/Users/varshathalladi/Code
+/Users/varshathalladi/Code/mcb185_homework
+/Users/varshathalladi/Code/mcb185_homework/.git
+/Users/varshathalladi/Code/MCB185
+/Users/varshathalladi/Code/MCB185/.git
+/Users/varshathalladi/Code/MCB185/data
