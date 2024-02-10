@@ -8,12 +8,12 @@ import random
 def normal_roll(value):
 	fail = 0
 	success = 0
-	for i in range(10):
+	for i in range(10000):
 		roll = random.randint(1, 20)
 		if roll >= value: success += 1
 		else: fail += 1
 #	print(success)
-	print(success / value)
+	print(success / 10000)
 #	print(fail)
 
 print(normal_roll(5))
@@ -25,13 +25,13 @@ print(normal_roll(15))
 def advantage_roll(value):
 	fail = 0
 	success = 0
-	for i in range(10):
+	for i in range(10000):
 		roll1 = random.randint(1, 20)
 		roll2 = random.randint(1, 20)
 		if roll1 >= value: success += 1
 		elif roll2 >= value: success += 1
 		else: fail += 1	
-	print(success / value)
+	print(success / 10000)
 
 print(advantage_roll(5))
 print(advantage_roll(10))
@@ -42,7 +42,7 @@ print(advantage_roll(15))
 def disadvantage_roll(value):
 	fail = 0
 	success = 0
-	for i in range(10):
+	for i in range(10000):
 		roll1 = random.randint(1, 20)
 		roll2 = random.randint(1, 20)
 		if roll1 <= roll2 and roll1 >= value:
@@ -51,7 +51,7 @@ def disadvantage_roll(value):
 			success += 1
 		else:
 			fail += 1
-	print(success / value)
+	print(success / 10000)
 
 print(disadvantage_roll(5))
 print(disadvantage_roll(10))
