@@ -17,7 +17,7 @@ Participation
 | U | AC | VP | AQ | OC | SH | SA | CA | OA | Tot | Notes
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
 | 0 |  2 |    |  1 |  2 |    |  1 |  1 |  2 |  9  | 1, 2
-| 5 |  4              2    2    1    4
+| 5 |  4 |    |    |  2 |  2 |  1 |  4 |    |     |
 | 6 |
 | 7 | 
 | 8 | 
@@ -25,5 +25,4 @@ Participation
 
 Notes:
 
-1. I helped another student fix their github account
-2. I stayed after class and got help from the professor
+1. Debug quiz participation
