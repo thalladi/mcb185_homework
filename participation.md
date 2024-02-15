@@ -16,7 +16,7 @@ Participation
 
 | U | AC | VP | AQ | OC | SH | SA | CA | OA | Tot | Notes
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
-| 5 |  4 |    |    |  2 |  2 |  1 |  4 |  1 |  14 | 1
+| 5 |  4 |    |    |  2 |    |    |  4 |  1 |  11 | a
 | 6 |    |    |    |    |    |    |    |    |     |
 | 7 |    |    |    |    |    |    |    |    |     |
 | 8 |    |    |    |    |    |    |    |    |     |
@@ -24,4 +24,4 @@ Participation
 
 Notes:
 
-1. Debug quiz participation
+a. Debug quiz participation
