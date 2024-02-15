@@ -12,13 +12,13 @@ students = int(sys.argv[3])
 shared = 0
 
 for trial in range(trials):
-	calendar = [0] * days
+	calendar = []
 	for i in range(students):
-		birthday = random.randint(0, days - 1)
-		if calendar[birthday] == 1:
+		bday = random.randint(0, days - 1)
+		if bday in calendar:
 			shared += 1
 			break
-		calendar[birthday] += 1
+		calendar.append(bday)
 print(shared / trials)
 
 
