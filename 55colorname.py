@@ -1,6 +1,6 @@
 # Varsha Thalladi
 # 55colorname.py
-# python3 ~/Code/MCB185/stylint.py PROGRAM NAME
+# python3 ~/Code/MCB185/src/stylint.py PROGRAM NAME
 
 import sys
 
